@@ -18,7 +18,7 @@ I am always open to collaborations, learning opportunities, open-source contribu
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=imomprakash06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=imomprakash06&show_icons=true&theme=github_dark)
 
 # 💻 Most Used Languages:
 
@@ -26,5 +26,5 @@ I am always open to collaborations, learning opportunities, open-source contribu
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Om+Prakash;B.Tech+CSE+Student;Web+Developer;Cybersecurity+Learner;Open+Source+Enthusiast;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Om+Prakash;Computer+Science+Student;Web+Developer;Cybersecurity+Explorer;Building+Projects+Every+Day" />
 </p>
